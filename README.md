@@ -1,5 +1,7 @@
 # Yunou Codex Pet
 
+[中文说明](README.zh-CN.md)
+
 Yunou is an original animated Codex pet inspired by cloud-puppet theater, kite ornaments, soft cloud shapes, ribbon tassels, and elegant opera-style face markings.
 
 It is designed as a compact sticker-style mascot with a teal, coral, gold, ivory, and charcoal palette. The character is original and is not affiliated with or copied from any existing game, character, skin, logo, or official asset.
