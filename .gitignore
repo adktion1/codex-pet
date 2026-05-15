@@ -1,0 +1,9 @@
+# Local generation runs and scratch assets
+mingli-pet-run/
+yunou-pet-run/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
